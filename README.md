@@ -2,7 +2,7 @@
 
 Watch YouTube videos in sync with other people. Real-time sync over WebSockets (Socket.IO), room codes/links, and role-based control (Host, Moderator, Participant).
 
-**Live URL:** _add your Render URL here after deploying_
+**Live URL:** https://watch-party-k9el.onrender.com
 
 ## Stack
 - Frontend: React + TypeScript + Vite, YouTube IFrame API
